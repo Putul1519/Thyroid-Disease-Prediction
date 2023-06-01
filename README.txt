@@ -1,0 +1,1 @@
+Prediction of thyroid using different classification algorithm and their accuracy comparison.
